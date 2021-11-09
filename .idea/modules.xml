@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Assignment-Streaming-ETL.iml" filepath="$PROJECT_DIR$/.idea/modules/Assignment-Streaming-ETL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Assignment-Streaming-ETL-build.iml" filepath="$PROJECT_DIR$/.idea/modules/Assignment-Streaming-ETL-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../KafkaProducer/.idea/modules/kafkaproducer_4188.iml" filepath="$PROJECT_DIR$/../KafkaProducer/.idea/modules/kafkaproducer_4188.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../KafkaProducer/.idea/modules/kafkaproducer_4188-build.iml" filepath="$PROJECT_DIR$/../KafkaProducer/.idea/modules/kafkaproducer_4188-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../untitled/.idea/modules/untitled.iml" filepath="$PROJECT_DIR$/../untitled/.idea/modules/untitled.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../untitled/.idea/modules/untitled-build.iml" filepath="$PROJECT_DIR$/../untitled/.idea/modules/untitled-build.iml" />
+    </modules>
+  </component>
+</project>

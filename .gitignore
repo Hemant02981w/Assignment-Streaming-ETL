@@ -1,0 +1,10 @@
+# Project exclude paths
+/KafkaProducer/project/project/target/
+/KafkaProducer/project/target/
+/KafkaProducer/target/
+/KafkaProducer/target/scala-2.13/classes/
+/project/target/
+/Spark-Kafka-Consumer/project/target/
+/Spark-Kafka-Consumer/target/
+/Spark-Kafka-Consumer/target/scala-2.11/classes/
+/target/
